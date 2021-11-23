@@ -35,7 +35,7 @@ if (app.documents.length > 0) {
     
     for (var i in obj.name) {
         
-        var TitleGroup = myDocument.layerSets.getByName('baseImage');
+        var TitleGroup = myDocument.layerSets.getByName('free_mug_mock-up');
         var TitleGroup2 = myDocument.layerSets.getByName('text');
         var thNamer = obj.name[i];
         VolLayer = TitleGroup2.artLayers.getByName('participantName');
