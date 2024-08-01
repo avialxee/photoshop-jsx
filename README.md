@@ -22,7 +22,7 @@ Say you want to generate Participant Certificates using this script in photoshop
 
     by clicking Code > Download Zip
 
-5. Unzip the folder to a desired location and copy your photoshop file inside the unzipped folder.
+5. Unzip the folder to a desired location and copy your photoshop file inside the unzipped folder. If you dont wish to keep the Photoshop file inside the folder follow the Step 4 in [Customize](#customize) and proceed with the next steps.
 6. Open `input.json` file in your favourite text editor and replace the values corrosponding to name. 
     ```json
     {
