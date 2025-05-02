@@ -18,7 +18,7 @@ Say you want to generate Participant Certificates using this script in photoshop
 
 3. Inside "text" Title Group(or folder) add the "participantName" text layer and place it on the desired position and appropriate text size. We will use the script to change this text.
 
-4. Download the script from https://github.com/avialxee/photoshop-jsx 
+4. Download the script from https://github.com/avikhagol/photoshop-jsx 
 
     by clicking Code > Download Zip
 
@@ -40,7 +40,7 @@ Say you want to generate Participant Certificates using this script in photoshop
 
     Open `autotype.json` to find and change the `baseImage` to a desired group name. Similarly for the `text` group name.
 
-2. If you dont want alerts each time an image is saved, comment the [line 49](https://github.com/avialxee/photoshop-jsx/blob/24713c40f18cceedc3afed4b791c439ea1804f0b/autotype.jsx#L49):
+2. If you dont want alerts each time an image is saved, comment the [line 49](https://github.com/avikhagol/photoshop-jsx/blob/24713c40f18cceedc3afed4b791c439ea1804f0b/autotype.jsx#L49):
     ```json
     // alert("saved Jpeg");
     ```

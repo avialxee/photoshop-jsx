@@ -1,4 +1,4 @@
-// written by @avialxee
+// written by @avikhagol
 // MIT License
 
 #target photoshop
